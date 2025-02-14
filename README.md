@@ -1,6 +1,9 @@
-Edit do outro branch incluído pelo pull request
-# Frontend Mentor - Conference ticket generator
 
+# Frontend Mentor - Conference ticket generator
+Edit do outro branch incluído pelo pull request
+=======
+#Repositorio para finalizar o curso de github do DIO
+Teste2
 ![Design preview for the Conference ticket generator coding challenge](./preview.jpg)
 
 ## Welcome! 👋
